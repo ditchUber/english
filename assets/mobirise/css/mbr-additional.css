@@ -1669,13 +1669,16 @@ section.lazy-placeholder:after {
 .cid-rHqBdJTjE6 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-rHqBdJTjE6 .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rHqBdJTjE6 .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rHqBdJTjE6 H2 {
+  color: #ffffff;
 }
 .cid-rI6LPXJ5ih {
   padding-top: 90px;
