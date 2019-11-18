@@ -36,14 +36,15 @@
     "versionPublish": "4.11.5",
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/cancel3x-1.png",
     "noImageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "": "on"
   },
   "pages": {
     "index.html": {
